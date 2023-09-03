@@ -1,0 +1,13 @@
+.custom-modal {
+  max-width: 620px !important;
+  width: 90% !important;
+  margin: auto;
+}
+.custom-modal .ant-modal-content {
+  background-color: #010b13 !important;
+  padding: 5px;
+}
+
+.custom-modal .ant-modal-footer {
+  /* background-color: blue; */
+}

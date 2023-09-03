@@ -1,0 +1,31 @@
+<svg width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon-park-solid:graphic-design" clip-path="url(#clip0_524_736)">
+<g id="Mask group">
+<mask id="mask0_524_736" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="52" height="52">
+<g id="Group">
+<g id="Group_2">
+<g id="Vector">
+<mask id="path-1-inside-1_524_736" fill="white">
+<path d="M18.3556 36.0051C8.21805 36.0051 0 27.9451 0 18.0026C0 8.06001 8.21805 0 18.3556 0C28.4931 0 36.7111 8.06001 36.7111 18.0026"/>
+</mask>
+<path d="M18.3556 31.0051C10.8875 31.0051 5 25.0926 5 18.0026H-5C-5 30.7976 5.5486 41.0051 18.3556 41.0051V31.0051ZM5 18.0026C5 10.9125 10.8875 5 18.3556 5V-5C5.5486 -5 -5 5.2075 -5 18.0026H5ZM18.3556 5C25.8236 5 31.7111 10.9125 31.7111 18.0026H41.7111C41.7111 5.2075 31.1625 -5 18.3556 -5V5Z" fill="white" mask="url(#path-1-inside-1_524_736)"/>
+</g>
+<path id="Vector_2" d="M45.1333 20.5026C47.0663 20.5026 48.6333 22.0696 48.6333 24.0026V45.4359C48.6333 47.3689 47.0663 48.9359 45.1333 48.9359H23.0444C21.1114 48.9359 19.5444 47.3689 19.5444 45.4359V24.0026C19.5444 22.0696 21.1114 20.5026 23.0444 20.5026H45.1333Z" fill="white" stroke="white" stroke-width="5" stroke-linejoin="round"/>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_524_736)">
+<path id="Vector_3" d="M-6.55554 0.856449C-6.55554 -2.45726 -3.86925 -5.14355 -0.555542 -5.14355H50.3778C53.6915 -5.14355 56.3778 -2.45726 56.3778 0.856445V50.5795C56.3778 53.8932 53.6915 56.5795 50.3778 56.5795H-0.555545C-3.86925 56.5795 -6.55554 53.8932 -6.55554 50.5795V0.856449Z" fill="url(#paint0_linear_524_736)"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_524_736" x1="24.9111" y1="-5.14355" x2="24.9111" y2="56.5795" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AA83FD"/>
+<stop offset="1" stop-color="#5F3EA7"/>
+</linearGradient>
+<clipPath id="clip0_524_736">
+<rect width="52" height="52" fill="white"/>
+</clipPath>
+</defs>
+</svg>

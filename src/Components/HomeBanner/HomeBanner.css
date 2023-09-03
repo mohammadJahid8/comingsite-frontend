@@ -1,0 +1,49 @@
+.home-bg-1 {
+  background-image: url("../../assets/header_bg.svg");
+  background-color: #000b12;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.home-bg-2 {
+  background-image: url("../../assets/tabs_bg.png");
+  background-color: #000b12;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.home-banner-bg {
+  background-image: url("../../assets/HeaderTrans.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+.home-banner {
+  text-transform: uppercase;
+  font-weight: 600;
+  background: linear-gradient(
+    90deg,
+    #a2ff9a 4.87%,
+    #6cd0fe 44.46%,
+    #aa83fd 74.67%,
+    #fdfcff 100%
+  );
+  background-size: 200%;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  animation: textcolormove 5s linear infinite;
+  animation-delay: 10s;
+}
+
+@keyframes textcolormove {
+  0% {
+    background-position: 200%;
+  }
+  100% {
+    background-position: 0%;
+  }
+}

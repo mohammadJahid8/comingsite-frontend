@@ -1,0 +1,33 @@
+.hosting-section {
+  background-image: url("../../assets/hosting_bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  background-color: #000b12;
+}
+
+.discuss-bg {
+  background: url("../../assets/discuss_bg.png"),
+    linear-gradient(90deg, #9cfe95 0%, #41ec52 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  z-index: 999;
+  overflow: hidden;
+}
+
+@media (max-width: 720px) {
+  .hosting-section_middle img {
+    margin: auto;
+  }
+  .hosting-section_last {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  .hosting-section_last div {
+    width: 150px;
+  }
+}

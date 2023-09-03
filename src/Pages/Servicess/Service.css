@@ -1,0 +1,39 @@
+.service-section .service-section_items:not(:last-child) {
+  margin-bottom: 170px;
+}
+
+.service-section .service-section_items:nth-child(even) .service-section_left {
+  -webkit-box-ordinal-group: 3;
+  -ms-flex-order: 2;
+  order: 2;
+}
+.service-section .service-section_items:nth-child(even) .service-section_right {
+  -webkit-box-ordinal-group: 2;
+  -ms-flex-order: 1;
+  order: 1;
+}
+
+.service-section_right {
+  background-color: rgb(2, 10, 14, 0.5);
+  overflow: hidden;
+}
+.service-section_right img {
+  -webkit-transition: 0.8s;
+  -o-transition: 0.8s;
+  transition: 0.8s;
+  margin: auto;
+
+  height: 465px;
+}
+
+.service-section_right img:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.services-arrow:before {
+  content: "—";
+  color: #94eb8e;
+  margin-right: 6px;
+}

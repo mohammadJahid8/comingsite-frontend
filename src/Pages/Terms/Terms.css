@@ -1,0 +1,9 @@
+.terms-bg{
+
+    background-image: url("../../assets/header_bg.svg");
+    background-repeat: no-repeat;
+    background-position: top;
+    width: 100%;
+    background-color: #000b12;
+  
+}

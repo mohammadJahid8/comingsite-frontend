@@ -1,0 +1,48 @@
+.ant-layout-sider-zero-width-trigger {
+  top: 10px !important;
+}
+.ant-modal-content,
+.ant-modal-header {
+  background-color: rgb(17, 17, 17) !important;
+}
+
+.ant-upload {
+  width: 350px !important;
+}
+
+.ant-modal-title {
+  color: rgb(179, 172, 172) !important;
+}
+
+.ant-pagination-disabled,
+.ant-pagination-item-link {
+  color: rgb(179, 172, 172) !important;
+}
+
+.ant-pagination-total-text {
+  color: white !important;
+}
+
+.ant-pagination-options-quick-jumper {
+  color: white !important;
+}
+
+.ant-pagination-item,
+.ant-select-selector,
+.ant-pagination-options-quick-jumper input {
+  background-color: rgb(17, 17, 17) !important;
+  color: white !important;
+}
+.ant-pagination-item a,
+.ant-pagination-item-ellipsis {
+  color: white !important;
+}
+
+.add-blog-file {
+  height: 43px;
+}
+
+.add-blog-file::-webkit-file-upload-button {
+  height: 43px;
+  cursor: pointer;
+}

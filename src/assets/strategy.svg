@@ -1,0 +1,23 @@
+<svg width="31" height="31" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="fluent:target-arrow-16-regular" clipPath="url(#clip0_106_278)">
+<g id="Mask group">
+<mask id="mask0_106_278" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="31" height="31">
+<g id="Group">
+<path id="Vector" d="M0.227295 15.2727V6.27271H6.9773V4.77271C6.9773 3.57923 7.4514 2.43464 8.29531 1.59072C9.13923 0.746811 10.2838 0.272705 11.4773 0.272705C12.6708 0.272705 13.8154 0.746811 14.6593 1.59072C15.5032 2.43464 15.9773 3.57923 15.9773 4.77271V6.27271H22.7273V15.2727H25.7273C26.9208 15.2727 28.0654 15.7468 28.9093 16.5907C29.7532 17.4346 30.2273 18.5792 30.2273 19.7727C30.2273 20.9662 29.7532 22.1108 28.9093 22.9547C28.0654 23.7986 26.9208 24.2727 25.7273 24.2727H22.7273V30.2727H0.227295V24.2727H3.2273C4.42077 24.2727 5.56536 23.7986 6.40928 22.9547C7.25319 22.1108 7.7273 20.9662 7.7273 19.7727C7.7273 18.5792 7.25319 17.4346 6.40928 16.5907C5.56536 15.7468 4.42077 15.2727 3.2273 15.2727H0.227295Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_106_278)">
+<path id="Vector_2" d="M-2.77271 -2.72729H33.2273V33.2727H-2.77271V-2.72729Z" fill="url(#paint0_linear_106_278)"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_106_278" x1="-2.77271" y1="15.2727" x2="33.2273" y2="15.2727" gradientUnits="userSpaceOnUse">
+<stop stopColor="#A2FF9A"/>
+<stop offset="1" stopColor="#3CEB4E"/>
+</linearGradient>
+<clipPath id="clip0_106_278">
+<rect width="31" height="31" fill="white"/>
+</clipPath>
+</defs>
+</svg>

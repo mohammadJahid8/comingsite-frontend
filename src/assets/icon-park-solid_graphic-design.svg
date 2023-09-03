@@ -1,0 +1,31 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon-park-solid:graphic-design" clipPath="url(#clip0_156_62)">
+<g id="Mask group">
+<mask id="mask0_156_62" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="30" height="30">
+<g id="Group">
+<g id="Group_2">
+<g id="Vector">
+<mask id="path-1-inside-1_156_62" fill="white">
+<path d="M10.5897 20.7722C4.74118 20.7722 0 16.1222 0 10.3861C0 4.65 4.74118 0 10.5897 0C16.4383 0 21.1795 4.65 21.1795 10.3861"/>
+</mask>
+<path d="M10.5897 18.2722C6.0759 18.2722 2.5 14.6959 2.5 10.3861H-2.5C-2.5 17.5484 3.40646 23.2722 10.5897 23.2722V18.2722ZM2.5 10.3861C2.5 6.07626 6.0759 2.5 10.5897 2.5V-2.5C3.40646 -2.5 -2.5 3.22375 -2.5 10.3861H2.5ZM10.5897 2.5C15.1036 2.5 18.6795 6.07626 18.6795 10.3861H23.6795C23.6795 3.22375 17.773 -2.5 10.5897 -2.5V2.5Z" fill="white" mask="url(#path-1-inside-1_156_62)"/>
+</g>
+<path id="Vector_2" d="M27.5 11.6361C27.9142 11.6361 28.25 11.9719 28.25 12.3861V27.6746C28.25 28.0888 27.9142 28.4246 27.5 28.4246H11.8333C11.4191 28.4246 11.0833 28.0888 11.0833 27.6746V12.3861C11.0833 11.9719 11.4191 11.6361 11.8333 11.6361H27.5Z" fill="white" stroke="white" stroke-width="2.5" stroke-linejoin="round"/>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_156_62)">
+<path id="Vector_3" d="M-3.78203 -0.96747C-3.78203 -2.07204 -2.8866 -2.96747 -1.78203 -2.96747H30.5257C31.6302 -2.96747 32.5257 -2.07204 32.5257 -0.967468V30.642C32.5257 31.7466 31.6302 32.642 30.5257 32.642H-1.78203C-2.8866 32.642 -3.78203 31.7466 -3.78203 30.642V-0.96747Z" fill="url(#paint0_linear_156_62)"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_156_62" x1="-3.78203" y1="14.8373" x2="32.5257" y2="14.8373" gradientUnits="userSpaceOnUse">
+<stop stopColor="#A2FF9A"/>
+<stop offset="1" stopColor="#3CEB4E"/>
+</linearGradient>
+<clipPath id="clip0_156_62">
+<rect width="30" height="30" fill="white"/>
+</clipPath>
+</defs>
+</svg>

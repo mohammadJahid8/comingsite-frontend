@@ -1,0 +1,55 @@
+.team-bg {
+  background-image: url("../../assets/header_bg.svg");
+  background-color: #000b12;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: top;
+}
+.card-bg {
+  background-image: url("../../assets/card-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+.text-style {
+  background: linear-gradient(
+    90deg,
+    #a2ff9a 4.87%,
+    #6cd0fe 44.46%,
+    #aa83fd 74.67%,
+    #fdfcff 100%
+  );
+  text-transform: uppercase;
+  font-weight: 600;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.team-items {
+  border: 2px solid transparent;
+  padding: 10px;
+  transition: 1s;
+}
+.team-items-img img {
+  border: 2px solid #023d48;
+  border-radius: 50%;
+  margin-bottom: 30px;
+  padding: 10px;
+  transition: 0.5s;
+  width: 231px;
+  height: 231px;
+  object-fit: cover;
+}
+
+.team-items:hover {
+  border: 2px solid #023d48;
+  background: url("../../assets/team-bg.png") no-repeat center/100% 100%;
+}
+.team-items:hover .team-items-img img {
+  border: 2px solid transparent;
+  border-radius: 0;
+  padding: 0;
+}

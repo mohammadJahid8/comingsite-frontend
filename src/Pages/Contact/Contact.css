@@ -1,0 +1,19 @@
+.contact-form {
+  background: #020e13;
+  border: 0.1px solid gray;
+}
+.contac-input {
+  background: #01070a;
+  color: lightgray;
+}
+.contact-send-btn {
+  background-color: #080f13 !important;
+  transition: 0.3s ease !important;
+}
+
+.contact-send-btn:hover {
+  background-image: linear-gradient(90.75deg, #5dd652 8.81%, #20af2f 29.16%);
+  color: black;
+
+  transition-duration: 1s;
+}
